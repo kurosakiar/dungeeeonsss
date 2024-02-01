@@ -1,11 +1,5 @@
 /**
- * 20 + (0 x 20) = 20
- * 
- * 20 + (1 x 20) = 40
- * 
- * ....
- * 
- * 20 + (4 x 20) = 100
+ * I referenced MakeCode Arcade Beginner's videos - Group of Sprites on Youtube.
  */
 function GroupOrbs () {
     for (let index = 0; index <= 4; index++) {
