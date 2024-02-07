@@ -25,6 +25,7 @@ function GroupOrbs () {
         Orbs.y = 20
         Orbs.setFlag(SpriteFlag.BounceOnWall, true)
         Orbs.setVelocity(75, 5)
+        Orbs.ay = 0
     }
 }
 let Orbs: Sprite = null
